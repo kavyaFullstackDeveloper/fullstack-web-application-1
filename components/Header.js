@@ -44,6 +44,8 @@ export default function Header(){
             <div className=' mt-12 lg:mt-0 ml-2'>
             <button>
                 <Link href='/api/auth/signin'> Get started</Link>
+
+
             </button>
 
             </div>
